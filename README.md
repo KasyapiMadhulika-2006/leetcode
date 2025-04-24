@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0049-group-anagrams) |
+| [0496-next-greater-element-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0290-word-pattern) |
+| [0496-next-greater-element-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -39,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
