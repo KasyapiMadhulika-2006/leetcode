@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1095-two-city-scheduling) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
