@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0496-next-greater-element-i) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0169-majority-element) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Linked List
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Combinatorics
 |  |
 | ------- |
