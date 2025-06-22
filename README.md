@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0682-baseball-game) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Divide and Conquer
 |  |
 | ------- |
