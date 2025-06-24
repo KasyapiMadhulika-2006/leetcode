@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1095-two-city-scheduling) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Union Find
 |  |
 | ------- |
