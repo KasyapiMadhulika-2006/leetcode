@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1095-two-city-scheduling) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0740-delete-and-earn](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0740-delete-and-earn) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Sliding Window
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 <!---LeetCode Topics End-->
