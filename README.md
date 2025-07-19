@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0740-delete-and-earn](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0740-delete-and-earn) |
 | [1013-fibonacci-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1013-fibonacci-number) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0227-basic-calculator-ii) |
 | [1013-fibonacci-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1013-fibonacci-number) |
@@ -202,5 +204,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
