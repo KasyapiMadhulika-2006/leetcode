@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0496-next-greater-element-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0227-basic-calculator-ii) |
