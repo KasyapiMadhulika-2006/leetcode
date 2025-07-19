@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0224-basic-calculator) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0227-basic-calculator-ii) |
