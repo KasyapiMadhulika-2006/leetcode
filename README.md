@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1095-two-city-scheduling) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0740-delete-and-earn) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -214,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1013-fibonacci-number) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
