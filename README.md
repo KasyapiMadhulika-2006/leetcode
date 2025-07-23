@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0205-isomorphic-strings) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0682-baseball-game) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Divide and Conquer
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0070-climbing-stairs) |
