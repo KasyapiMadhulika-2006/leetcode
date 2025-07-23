@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0204-count-primes) |
 | [0435-non-overlapping-intervals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0682-baseball-game) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0204-count-primes) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0204-count-primes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0227-basic-calculator-ii) |
 | [1013-fibonacci-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1013-fibonacci-number) |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0149-max-points-on-a-line) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
