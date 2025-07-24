@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0204-count-primes) |
+| [0347-top-k-frequent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0682-baseball-game) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0740-delete-and-earn) |
 | [1813-maximum-erasure-value](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1095-two-city-scheduling](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1095-two-city-scheduling) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -136,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -231,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Memoization
 |  |
@@ -253,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0204-count-primes) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
