@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0066-plus-one) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0076-minimum-window-substring) |
 | [0149-max-points-on-a-line](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0149-max-points-on-a-line) |
