@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0496-next-greater-element-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0496-next-greater-element-i) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1095-two-city-scheduling](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1095-two-city-scheduling) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0268-missing-number) |
 | [1023-time-based-key-value-store](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -276,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0268-missing-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Geometry
 |  |
