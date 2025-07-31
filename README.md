@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0682-baseball-game) |
 | [0740-delete-and-earn](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0740-delete-and-earn) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1095-two-city-scheduling) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0740-delete-and-earn](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0740-delete-and-earn) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1013-fibonacci-number) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0268-missing-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
