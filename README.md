@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0053-maximum-subarray) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
