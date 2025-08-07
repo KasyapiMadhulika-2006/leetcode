@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Sliding Window
 |  |
 | ------- |
@@ -377,4 +379,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0054-spiral-matrix) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 <!---LeetCode Topics End-->
