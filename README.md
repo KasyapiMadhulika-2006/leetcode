@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2689-rearranging-fruits](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2721-sum-of-distances](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2721-sum-of-distances) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2689-rearranging-fruits](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2689-rearranging-fruits) |
+| [2721-sum-of-distances](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2721-sum-of-distances) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2721-sum-of-distances](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2721-sum-of-distances) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Math
