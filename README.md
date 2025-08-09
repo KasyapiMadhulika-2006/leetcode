@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0268-missing-number) |
 | [0826-soup-servings](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1013-fibonacci-number) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
