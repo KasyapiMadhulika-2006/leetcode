@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2689-rearranging-fruits](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2721-sum-of-distances](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2721-sum-of-distances) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Geometry
 |  |
 | ------- |
