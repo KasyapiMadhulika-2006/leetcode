@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
