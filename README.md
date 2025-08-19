@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
