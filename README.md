@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1095-two-city-scheduling) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0076-minimum-window-substring) |
 | [0867-new-21-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
