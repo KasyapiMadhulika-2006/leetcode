@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3748-sort-matrix-by-diagonals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Stack
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3748-sort-matrix-by-diagonals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Probability and Statistics
 |  |
 | ------- |
