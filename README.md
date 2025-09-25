@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0682-baseball-game) |
 | [0740-delete-and-earn](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0740-delete-and-earn) |
+| [0792-binary-search](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0792-binary-search) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
