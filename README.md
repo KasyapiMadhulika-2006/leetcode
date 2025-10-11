@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0204-count-primes) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -511,11 +514,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
