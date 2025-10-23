@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0792-binary-search) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1039-find-the-town-judge](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1095-two-city-scheduling) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0740-delete-and-earn) |
 | [0940-fruit-into-baskets](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1023-time-based-key-value-store](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1023-time-based-key-value-store) |
+| [1039-find-the-town-judge](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1039-find-the-town-judge) |
 | [1813-maximum-erasure-value](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -547,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
