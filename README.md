@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0682-baseball-game) |
 | [0740-delete-and-earn](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0740-delete-and-earn) |
 | [0792-binary-search](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0792-binary-search) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1039-find-the-town-judge) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0740-delete-and-earn) |
 | [0826-soup-servings](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0867-new-21-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -553,4 +556,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1039-find-the-town-judge) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
