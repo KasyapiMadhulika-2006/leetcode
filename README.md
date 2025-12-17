@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0796-rotate-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0796-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -564,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
