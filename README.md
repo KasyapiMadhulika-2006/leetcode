@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0796-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
