@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0796-rotate-string) |
+| [0953-verifying-an-alien-dictionary](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0940-fruit-into-baskets) |
+| [0953-verifying-an-alien-dictionary](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0977-squares-of-a-sorted-array](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0740-delete-and-earn) |
 | [0940-fruit-into-baskets](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0940-fruit-into-baskets) |
+| [0953-verifying-an-alien-dictionary](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1039-find-the-town-judge) |
 | [1813-maximum-erasure-value](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/1813-maximum-erasure-value) |
