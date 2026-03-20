@@ -1,15 +1,23 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        if(s.length() != t.length()) return false;
-        Map<Character , Integer> map = new HashMap<>();
-        for(char c: s.toCharArray()){
-            map.put(c,map.getOrDefault(c,0)+1);
+        //Check the lengths of both the strings
+        if(s.length() != t.length()){
+            return false;
         }
-        for(char c : t.toCharArray()){
-            if(!map.containsKey(c)) return false;
-            map.put(c,map.get(c) - 1);
-            if(map.get(c) == 0) map.remove(c);
+        // Check the frequencies
+        int[] charCounts = new int[26];
+        //Iterating through loop
+        //increment for s and decrement for t
+        for(int i = 0; i < s.length();i++){
+            charCounts[s.charAt(i) - 'a']++;
+            charCounts[t.charAt(i) - 'a']--;
         }
-        return map.isEmpty();
+        // check if all zeros are not 
+        for(int count:charCounts){
+            if(count != 0){
+                return false;
+            }
+        }
+        return true;
     }
 }
