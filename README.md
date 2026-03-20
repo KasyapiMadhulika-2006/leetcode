@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2721-sum-of-distances](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/2721-sum-of-distances) |
