@@ -587,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0796-rotate-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KasyapiMadhulika-2006/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
